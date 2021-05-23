@@ -14,6 +14,7 @@ order: 4
 
 #### メインPC
 13インチ MacBook Pro
+|   |        |
 |:--|:-------|
 |CPU|Apple M1 8コア|
 |GPU|Apple M1 8コア|
@@ -24,6 +25,7 @@ order: 4
 
 #### サブPC
 mouse G-tune
+|   |        |
 |:--|:-------|
 |CPU|Intel Core-i5 8300H 4コア8スレッド 2.30GHz|
 |GPU|NVIDIA Geforce MX150|
@@ -35,6 +37,7 @@ mouse G-tune
 
 #### 持ち歩く用PC
 Microsoft Surface Go 2
+|   |        |
 |:--|:-------|
 |CPU|Intel Core-m3 8100Y 2コア4スレッド 1.10GHz|
 |GPU|Intel UHD-Graphics 615|
