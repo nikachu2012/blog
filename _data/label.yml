@@ -1,19 +1,19 @@
 # The label text of site.
 
 panel:
-  lastmod: Recent Update
-  trending_tags: Trending Tags
-  toc: Contents
+  lastmod: 最近の更新
+  trending_tags: 急上昇中のタグ
+  toc: コンテンツ
 
 post:
-  relate_posts: Further Reading
-  share: Share
+  relate_posts: 関連した記事
+  share: シェア
   button:
-    next: Newer
-    previous: Older
+    next: 次の記事
+    previous: 前の記事
 
-search_hint: Search   # text show on search bar
+search_hint: 検索   # text show on search bar
 
-pin_prompt: Pinned    # pinned prompt
+pin_prompt: ピン留め    # pinned prompt
 
-read_time_unit: min   # see posts' time to read
+read_time_unit: 分で読めます   # see posts' time to read
