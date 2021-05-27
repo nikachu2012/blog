@@ -1,7 +1,7 @@
 ---
 title: パソコン歴10年のニカチュウがおすすめするフリーソフト紹介！
-date: 2021-05-27 19:29:20
-categories: [Blog, PC, Windows]
+date: 2021-05-27 19:29:20 +0900
+categories: [Blog, PC]
 tags: [ソフト紹介]
 ---
 
