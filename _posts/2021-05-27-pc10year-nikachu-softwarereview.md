@@ -38,12 +38,12 @@ Chromium（Chrome)がベースなので、挙動とかは同じですがGoogle�
 画像の縮小などや簡易的な編集もできてしまうソフトです。  
 このソフトのすごいところはズバリ「クリップボード変換」です！  
 この「クリップボード変換」は変換したい画像をコピーするだけで自動的に変換される機能です。  
-変換したい画像をCtrl+Cでコピーするだけで変換できてマジで良いです。設定は指定してある設定が自動的に使われます。
+変換したい画像をCtrl+Cでコピーするだけで変換できてマジで良いです。設定は指定してある設定が自動的に使われます。  
 [縮小革命](https://netank.net/down)
 
 ### Medibang Paint Pro
 このソフトは漫画とかを描くためのソフトらしいですが、簡単な画像作成や画像編集にも使えます。  
-漫画を描くためのソフトなので、ブラシ等も色々充実しています。文字入れとかの機能もついているので結構お勧めです。
+漫画を描くためのソフトなので、ブラシ等も色々充実しています。文字入れとかの機能もついているので結構お勧めです。  
 [Medibang Paint Pro](https://medibangpaint.com/app-download/)
 
 ### AIMP
@@ -70,7 +70,7 @@ Chromium（Chrome)がベースなので、挙動とかは同じですがGoogle�
 
 ### TeraPad
 このソフトはWindowsに標準で入っているメモ帳の進化版のようなソフトです。１番の特徴は元に戻すがほぼ無限に使えます。  
-元に戻すの量の設定が必要になります。
+元に戻すの量の設定が必要になります。  
 [TeraPad](https://tera-net.com/library/tpad.html)
 
 ## Office
@@ -83,21 +83,21 @@ Chromium（Chrome)がベースなので、挙動とかは同じですがGoogle�
 
 ### LibreOffice
 上のMicrosoft Officeは買いたくないなぁという方にお勧めなのがLibreOfficeです。このソフトは完全無料です。  
-Microsoft Officeとも互換性があります。完全ではありません。
+Microsoft Officeとも互換性があります。完全ではありません。  
 [LibreOffice](https://ja.libreoffice.org/download/download/)
 
 ## その他
 ### Bandizip
 このソフトは圧縮されたファイルを開くためのソフトです。このソフトは色々な圧縮形式に対応しています。私もこのソフトを使っていて、開けない形式があったことはありません。  
-保存先フォルダの設定も変えられたりしてお勧めです。有料版もありますが、無料版で十分です。
+保存先フォルダの設定も変えられたりしてお勧めです。有料版もありますが、無料版で十分です。  
 [Bandizip](https://jp.bandisoft.com/bandizip/)
 
 ### iTunes
 このソフトはiPhoneやiPadなどのApple製品を使っている人は絶対入れた方がいいソフトです。  
-音楽をiPhoneの中に転送できたりと色々できるソフトです。
+音楽をiPhoneの中に転送できたりと色々できるソフトです。  
 [iTunes](https://www.apple.com/jp/itunes/)
 
 ### VLC media player
 このソフトは、色々な動画やDVDなどを再生できるソフトです。  
-動作も軽いのでお勧めです。
+動作も軽いのでお勧めです。  
 [VLC media player](https://www.videolan.org/vlc/index.ja.html)
