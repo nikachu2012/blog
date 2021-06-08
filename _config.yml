@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
   ニカチュウが色々なことを書いていくブログです。
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://nikachu2012.github.io/blog/'
+url: 'https://nikachu2012.github.io/'
 
 github:
   username: nikachu2012             # change to your github username
