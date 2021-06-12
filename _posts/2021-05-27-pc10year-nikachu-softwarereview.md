@@ -78,7 +78,7 @@ Chromium（Chrome)がベースなので、挙動とかは同じですがGoogle�
 このソフトは言わずとも知れたあのWordとかが入っているやつです。フリーソフト紹介なのにフリーソフトじゃなくてすみません。  
 でも本当にこのソフトは買った方がいいです。Microsoft 365がお勧めです。クラウド１TBやデザインのアイデアを教えてくれたりします。  
 年１２０００円かかるけど本当にお勧めです。  
-[Microsoft 365](https://www.amazon.co.jp/dp/B00O2TXF8O/)
+[Microsoft 365](https://www.amazon.co.jp/dp/B00O2TXF8O/)  
 [Microsoft Office 2019 Home&Premium](https://www.amazon.co.jp/dp/B00O2TXF8O/)
 
 ### LibreOffice
@@ -101,3 +101,9 @@ Microsoft Officeとも互換性があります。完全ではありません。
 このソフトは、色々な動画やDVDなどを再生できるソフトです。  
 動作も軽いのでお勧めです。  
 [VLC media player](https://www.videolan.org/vlc/index.ja.html)
+
+### Geek Uninstaller
+このソフトは、ソフトを消すためのソフトです。  
+通常機能で消すことができますが、それだと消しきれない（ゴミが残る）ことがあります。  
+ですが、このソフトでは通常機能だと消しきれなかったゴミまでできるだけ消すことができます。  
+[Geek Uninstaller](https://forest.watch.impress.co.jp/library/software/geekuninst/)
