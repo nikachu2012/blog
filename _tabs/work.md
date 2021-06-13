@@ -13,7 +13,7 @@ order: 5
 今見ているこのサイトです。Github PagesのJekyllを使用しています。  
 ただいまマークアップ言語を勉強中です。  
 [ニカチュウnet](https://nikachu2012.github.io/)  
-[時計アプリのリポジトリ](https://github.com/nikachu2012/nikachu2012.github.io)  
+[ニカチュウnetのリポジトリ](https://github.com/nikachu2012/nikachu2012.github.io)  
 
 ### 時計アプリ  
 ![時計アプリ](https://i.imgur.com/uPOPe2z.png "時計アプリ")  
