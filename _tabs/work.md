@@ -9,14 +9,14 @@ order: 5
 
 ## 完成している作品  
 ### ニカチュウnet  
-![ニカチュウnet](https://i.imgur.com/4MHsN8o.png "ニカチュウnet")
+![ニカチュウnet](https://i.imgur.com/4MHsN8o.png "ニカチュウnet")  
 今見ているこのサイトです。Github PagesのJekyllを使用しています。  
 ただいまマークアップ言語を勉強中です。  
 [ニカチュウnet](https://nikachu2012.github.io/)  
 [時計アプリのリポジトリ](https://github.com/nikachu2012/nikachu2012.github.io)  
 
 ### 時計アプリ  
-![時計アプリ](https://i.imgur.com/uPOPe2z.png "時計アプリ")
+![時計アプリ](https://i.imgur.com/uPOPe2z.png "時計アプリ")  
 ただの時計です。右側にアナログ時計、左側にデジタル時計があります。  
 時間はサーバーに接続しているとかではなく、PCの内部時計を取り出しています。  
 [舞時計](https://www.vector.co.jp/soft/winnt/personal/se386666.html)  
